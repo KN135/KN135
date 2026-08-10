@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm a Beginner Bioinformatician!
 
-<!--
-**KN135/KN135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Bioinformatics Student | 💻 Computer & Technology Enthusiast | 🐍 Python Learner | 🔬 Computational Biology Explorer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a beginner-level bioinformatician interested in the intersection of biology, computer science, programming, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my skills in bioinformatics, Python, computational biology, data analysis, and biological data processing while exploring how technology can be used to solve biological problems.
+
+🛠️ What I'm Learning
+🧬 Bioinformatics & Computational Biology
+🐍 Python Programming
+📊 Data Analysis & Visualization
+🧪 Molecular Biology & Biotechnology
+💻 Computer Science & Technology
+🔬 Biological Data Processing
+🗄️ Databases & Basic Data Management
+🚀 What You'll Find Here
+
+This repository is where I document my learning journey, projects, experiments, practice programs, and bioinformatics work.
+
+I'm still learning, so expect some bugs, experiments, and plenty of print() statements along the way. 😄
+
+Learning biology. Writing code. Breaking things. Fixing them. Repeating. 🧬💻
+
+I'm always curious, always learning, and excited to grow into a skilled bioinformatician and computational biology professional.
