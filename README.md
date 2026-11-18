@@ -64,6 +64,13 @@ Learning biology. Writing code. Breaking things. Fixing them. Repeating. 🧬�
 
 I'm always curious, always learning, and excited to grow into a skilled bioinformatician and computational biology professional.
 
+## 📌 Featured Projects
+
+### Human Insulin Bioinformatics Analysis
+A computational bioinformatics project involving human insulin nucleotide sequences, protein properties, and 3D structural analysis.
+
+🔗 **[View Project Board](https://github.com/users/KN135/projects/9)**
+
 ## 🤝 Open To
 
 - Research Collaborations
